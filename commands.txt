@@ -1,0 +1,7 @@
+docker run -d --name nginx-container nginx
+docker run -d --name gitea-container gitea/gitea
+git push
+git add
+git commit
+nano
+cat
